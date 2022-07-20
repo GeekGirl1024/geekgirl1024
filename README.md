@@ -1,7 +1,7 @@
 # Sophia Lee
 
 <center>
-<img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.18169-9/17952027_10107845379792820_7852393609139827572_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_ohc=xnR0_AoIxKAAX9USL-j&tn=z22_yHiLeOqsgRfx&_nc_ht=scontent-sea1-1.xx&oh=00_AT_0QSOT8xwhHvXyJx4N7dKMCsRoF_VGLSpct_M6_AOS5w&oe=6254D6B1" alt="My Selfie with Pink Hair" width="300px" />
+<img src="./sophiaPix.jpg" alt="My Selfie with Pink Hair" width="300px" />
 </center>
 
 ## About Me
