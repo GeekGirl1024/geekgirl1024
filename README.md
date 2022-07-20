@@ -1,7 +1,7 @@
 # Sophia Lee
 
 <center>
-<img src="./sophiaPix.jpg" alt="My Selfie with Pink Hair" width="300px" />
+<img src="./sophiapix.jpg" alt="My Selfie with Pink Hair" width="300px" />
 </center>
 
 ## About Me
